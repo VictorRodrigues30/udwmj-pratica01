@@ -1,0 +1,30 @@
+.titulo {
+    color:red;
+    font-family: arial, sans-serif;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-decoration: underline;
+}
+
+.paragrafo1 {
+    color:brown;
+    font-family: arial, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.paragrafo2 {
+    color:chocolate;
+    font-family: arial, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.paragrafo3 {
+    color:burlywood;
+    font-family: arial, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
